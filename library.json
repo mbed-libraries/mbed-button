@@ -1,0 +1,18 @@
+{
+    "name": "mbed-button",
+    "keywords": "mbed, button, debouncing, debounced, debouncedin",
+    "description": "Button and debounced input driver for mbed",
+    "repository":
+    {
+		"type": "git",
+		"url": "https://github.com/mbed-libraries/mbed-button.git"
+  	},
+    "authors":
+    {
+        "name": "Steffen S.",
+        "email": "steffen1995@gmail.com"
+    },
+    "version": "1.0.0",
+    "frameworks": "mbed",
+    "platforms": "*"
+}
